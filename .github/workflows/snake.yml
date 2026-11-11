@@ -1,0 +1,41 @@
+# Draws your contribution graph as a snake game, in purple, and stores the
+# result on a separate "output" branch so the README can link to it.
+name: Purple contribution snake
+
+on:
+  schedule:
+    - cron: "17 */12 * * *"   # every 12 hours (UTC); off the hour to dodge the rush
+  workflow_dispatch:           # adds a "Run workflow" button in the Actions tab
+  push:
+    branches: [main]           # regenerate as soon as you change the profile
+
+permissions:
+  contents: write              # the job pushes the SVGs to the output branch
+
+concurrency:                   # never let two runs push to "output" at once
+  group: snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # color_dots = 5 colours: empty day, then low -> high contribution days.
+      - name: Generate purple snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?color_snake=#e879f9&color_dots=#161b22,#2e1065,#5b21b6,#8b5cf6,#c4b5fd&color_dot_border=#ffffff0d
+            dist/snake-light.svg?color_snake=#c026d3&color_dots=#ebedf0,#ddd6fe,#a78bfa,#7c3aed,#4c1d95&color_dot_border=#1b1f230d
+
+      - name: Publish SVGs to the output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+          jekyll: false
+          commit_message: Update contribution snake
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

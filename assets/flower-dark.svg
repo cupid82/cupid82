@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 592 764" width="592" height="764" role="img" aria-labelledby="t d">
+<title id="t">ASCII lily</title>
+<desc id="d">A lily drawn with ASCII characters in shades of purple.</desc>
+<defs>
+<linearGradient id="g" gradientUnits="userSpaceOnUse" x1="592" y1="0" x2="207" y2="764">
+<stop offset="0.00" stop-color="#faf5ff"/>
+<stop offset="0.25" stop-color="#e9d5ff"/>
+<stop offset="0.50" stop-color="#d8b4fe"/>
+<stop offset="0.75" stop-color="#c4b5fd"/>
+<stop offset="1.00" stop-color="#a78bfa"/>
+</linearGradient>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:10.0px;font-weight:400;white-space:pre;animation:b 7s ease-in-out infinite}
+@keyframes b{0%,100%{opacity:.78}50%{opacity:1}}
+@media (prefers-reduced-motion:reduce){text{animation:none;opacity:.9}}
+</style>
+</defs>
+<g fill="url(#g)">
+<text x="320.0" y="17.8" textLength="48.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-7.00s">:------:</text>
+<text x="308.0" y="29.3" textLength="126.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-6.91s">=*%%##%@@@+       :+=</text>
+<text x="170.0" y="40.8" textLength="264.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-6.82s">:----                 +#++===+++*%%%%##***%=</text>
+<text x="152.0" y="52.3" textLength="282.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-6.73s">-*#*====+**+=-         -*+======:-====-=====*#:</text>
+<text x="146.0" y="63.8" textLength="282.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-6.64s">+#=++=++++===++++:      =*#=====+==++=-=+====*-</text>
+<text x="140.0" y="75.3" textLength="282.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-6.55s">-*+======-=====--=+     *%%@=:::-=-==-:----=-++</text>
+<text x="134.0" y="86.8" textLength="360.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-6.46s">=+*==---===--=--===-=*%:-#%*#*=:-=-=+---=-=--=#=      -====:</text>
+<text x="122.0" y="98.3" textLength="396.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-6.37s">:+++=-:-==-::--=++=+==#@+ ===+#@@+:--=-:-:-::--=+ -+*****+**##***+</text>
+<text x="80.0" y="109.8" textLength="462.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-6.28s">---::=#*==-::=--===-*=:-===-*%%= =++*:=@*--+=::::::::-=***=-==========++###-:</text>
+<text x="74.0" y="121.3" textLength="474.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-6.19s">-%@#**+++=++==--++==%@=:-:-=-=%@+:**#+-=%*:-#=--::--=+*=-+=+++++=++++++===*#%%=</text>
+<text x="80.0" y="132.8" textLength="474.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-6.10s">-##*-:-===-=*==--==#@=::::-=*=+*-=+%=+-=--+*--:::-+++=-======++==+=======*##@%:</text>
+<text x="92.0" y="144.3" textLength="462.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-6.01s">-##=--=-=-==**=:-%@*=-:-:=%=-++=+**+:-:=*-::::-===-:==-==-=-====--========#@+</text>
+<text x="98.0" y="155.8" textLength="456.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-5.92s">:*%#+-:=+++++*+==%@**=::*%+:-**#%%%---=#-:--=**+=--==+=-=-=-:-=++-=++++++%@=</text>
+<text x="116.0" y="167.3" textLength="438.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-5.83s">=##*=-=====+*+-=*=**=+@%*-:++=*@#-:*#--:-*+:---===--:::=::::-=*******=*#:</text>
+<text x="74.0" y="178.8" textLength="480.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-5.74s">-------=-=**+=-====*+*+=++=*+#@*= +*++#@+-#=-:-**#=---=::::-------=--==--=+=+#%:</text>
+<text x="50.0" y="190.3" textLength="504.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-5.65s">-++*#****++***+**##*=-=====+*+++**==*:+++*++==#=--*+--===+---==-----==*=++++++***+@*</text>
+<text x="32.0" y="201.8" textLength="534.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-5.56s">:+#*===-:::-========--=***+***%@%#++=+-+=-===*--*+::*#---::--==----=+*===+==-=======+%@*:</text>
+<text x="20.0" y="213.3" textLength="564.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-5.47s">-+#+=-===--::-++=+++++++=--=++--++*#%@%#*=*+*%*#+*#=-====-===+++-=+==+=--===+**#*##%%#+**%@*+:</text>
+<text x="14.0" y="224.8" textLength="570.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-5.38s">-*+--::--=:-===+++========+=-=+**-    -*@#=+*=+*#+**= -*=--==*#=++==---==***##+------=%*=+*%@%:</text>
+<text x="8.0" y="236.3" textLength="564.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-5.29s">-#=-::-::::----=====-++++=====---=**-    =#%+*++*++#+ =#**%%%++====*++#****:           +%%%%#-</text>
+<text x="8.0" y="247.8" textLength="438.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-5.20s">-+---::-------====+===***+*****++-+**++:  =#%%#*##%*-+%@@*==***==++=+**+:</text>
+<text x="8.0" y="259.3" textLength="444.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-5.11s">:+--:::-:::::---:-+====+=-===++####*==++-:  +%%***#*%@@#=+*+---:-=-:::=**-</text>
+<text x="8.0" y="270.8" textLength="450.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-5.02s">:**=::====+**++++++##*##*%%%#*====#%%%%###*==*#*##@@%#-+#*=--=+++===-::-+*-</text>
+<text x="20.0" y="282.3" textLength="444.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-4.93s">-=-+*=======================+#*##*==+=##%%%#*#%@@*+*##=-==++++++==-=-:-=*=</text>
+<text x="26.0" y="293.8" textLength="444.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-4.84s">:*-:                  +#*#+========+%***##=*===**+#**###+-::==-=----::=-*-</text>
+<text x="20.0" y="305.3" textLength="456.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-4.75s">-+=*#@%+=           -#*#+=+++====+==+*+#*=--====***++=----++*-:-=+==-----*#=</text>
+<text x="20.0" y="316.8" textLength="462.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-4.66s">*#*=*%%*-          =#*==+++++++====+**--===++++*#*##++-----=+*=---------:-+#-</text>
+<text x="32.0" y="328.3" textLength="456.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-4.57s">=**:            =#+============-*==---====++*+*=++#%#*=----:-+==:::==--=-+*:</text>
+<text x="122.0" y="339.8" textLength="372.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-4.48s">:#*+===+=++=+=-=+++=====+++#= :*#==+#%@%#+=----+=++--++*==+##:</text>
+<text x="122.0" y="351.3" textLength="372.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-4.39s">+*=--===-====-==-=--====-+#-   -@%- ::=#%%*===-:-+#+--=+=--=#-</text>
+<text x="122.0" y="362.8" textLength="372.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-4.30s">++=::-=-==-=--=-=-=--::-+#=     =@@-    =*#%*++=--=*%+-==-=+#+</text>
+<text x="116.0" y="374.3" textLength="378.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-4.21s">:*+===-==+=+--=-=----=-=**=       -%@*:    :+%%#++==-+##=+*+*%=</text>
+<text x="122.0" y="385.8" textLength="366.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-4.12s">+=:::--=---:-----::::-*+          :*@%-      -##+==-==#%%@%%+</text>
+<text x="122.0" y="397.3" textLength="354.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-4.03s">*+=:--=-=-----=:-----**             +%@%:      +*%%#*+#%#*-</text>
+<text x="122.0" y="408.8" textLength="336.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-3.94s">+*===-----:=-==----:=*:               +#%*:      :=#%%@*</text>
+<text x="128.0" y="420.3" textLength="324.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-3.85s">*=:::--:::---::-:-=+:                  -#%%=:       ::</text>
+<text x="128.0" y="431.8" textLength="288.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-3.76s">+*---=-:::=-=----+*-                     =##@%+=</text>
+<text x="128.0" y="443.3" textLength="306.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-3.67s">-#+--===-:---:---+:                         ==%@##-</text>
+<text x="134.0" y="454.8" textLength="318.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-3.58s">-*=-=-:::===::-+                               =%%%=-</text>
+<text x="140.0" y="466.3" textLength="330.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-3.49s">=**-=----==-:+-                                 -*@@#*:</text>
+<text x="146.0" y="477.8" textLength="330.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-3.40s">-#+-------:-+                                    -#+#%#</text>
+<text x="152.0" y="489.3" textLength="330.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-3.31s">:**+--=-=-+=                                     *##@@*</text>
+<text x="164.0" y="500.8" textLength="318.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-3.22s">=##=-=*#*                                      :+**+*</text>
+<text x="176.0" y="512.3" textLength="306.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-3.13s">=#*##*:                                        =*#*</text>
+<text x="182.0" y="523.8" textLength="300.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-3.04s">=*=                                          :+*@+</text>
+<text x="458.0" y="535.3" textLength="18.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-2.95s">=+#</text>
+<text x="452.0" y="546.8" textLength="24.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-2.86s">-**#</text>
+<text x="452.0" y="558.3" textLength="24.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-2.77s">-*@%</text>
+<text x="452.0" y="569.8" textLength="24.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-2.68s">==%-</text>
+<text x="446.0" y="581.3" textLength="30.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-2.59s">:#*%:</text>
+<text x="446.0" y="592.8" textLength="30.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-2.50s">:%%@:</text>
+<text x="446.0" y="604.3" textLength="24.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-2.41s">:#%+</text>
+<text x="446.0" y="615.8" textLength="24.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-2.32s">+#%=</text>
+<text x="446.0" y="627.3" textLength="24.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-2.23s">%#@=</text>
+<text x="446.0" y="638.8" textLength="24.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-2.14s">###:</text>
+<text x="440.0" y="650.3" textLength="24.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-2.05s">+##*</text>
+<text x="440.0" y="661.8" textLength="24.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-1.96s">*#%*</text>
+<text x="434.0" y="673.3" textLength="30.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-1.87s">:**@+</text>
+<text x="434.0" y="684.8" textLength="30.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-1.78s">+##%:</text>
+<text x="434.0" y="696.3" textLength="24.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-1.69s">+#%%</text>
+<text x="428.0" y="707.8" textLength="30.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-1.60s">-#*@#</text>
+<text x="428.0" y="719.3" textLength="30.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-1.51s">-#%@-</text>
+<text x="428.0" y="730.8" textLength="30.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-1.42s">=+#%:</text>
+<text x="428.0" y="742.3" textLength="24.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-1.33s">##@=</text>
+<text x="428.0" y="753.8" textLength="24.0" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:-1.24s">--+:</text>
+</g>
+</svg>
