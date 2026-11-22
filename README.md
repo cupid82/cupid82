@@ -1,4 +1,4 @@
-## Hi, I'm cupid82
+## ssssssup,,
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/flower-dark.svg">
@@ -8,7 +8,7 @@
 
 **Software developer** · full-stack web · applied AI · systems programming
 
-I like taking an idea from an empty folder to something people can open and use, and understanding every layer on the way. So far that has meant an astronomy pipeline, a student platform, a trading dashboard with a local LLM, and a browser game.
+Im cupid full stackdev , gud at Front end , pipelines ,DB , like taking an idea from an empty folder to something people can open and use, and understanding every layer on the way. So far that has meant an astronomy pipeline, a student platform, a trading dashboard with a local LLM, and a browser game.
 
 - **Now:** building **Zavion**, a layer-1 blockchain in Rust, written from scratch
 - **Recently:** CosmoLens HPC, a JWST image pipeline paired with Gemini (MLH hackathon)
